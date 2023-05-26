@@ -328,7 +328,7 @@ nav.title-bar .menu-icon
 	display: flex;
 	flex: 0 1 auto;
 	order: 1;
-	min-height: 120px;
+	min-height: 100px;
 	align-self: center;
 	justify-content: flex-start;
 }
@@ -340,11 +340,11 @@ nav.title-bar .menu-icon
 	margin: 0;
 	z-index: 1;
 	display: block;
-	width: 249px;
-	height: 120px;
+	width: 208px;
+	height: 100px;
 	align-self: center;
-	background: transparent url('Images/logo2.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/logo2.png') no-repeat center center;
+	background: transparent url('Images/logo2small.png') no-repeat center center;
+	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/logo2small.png') no-repeat center center;
 }
 
 .title-bar-container
@@ -1003,7 +1003,7 @@ div.central-dropdown-content > a:hover
 
 .menu-icon-container
 {
-	min-height: 120px;
+	min-height: 100px;
 }
 
 .off-canvas-wrapper-inner .outer-row

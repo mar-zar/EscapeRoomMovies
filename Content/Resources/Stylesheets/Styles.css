@@ -503,3 +503,11 @@ div.home-footer
 	}
 }
 
+div.Note
+{
+	border-left: solid 5px #925c1b;
+	padding-left: 9px;
+	border-left-color: #b33939;
+	background: #e7bdbd;
+}
+
